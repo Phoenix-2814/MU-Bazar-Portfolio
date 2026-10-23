@@ -1,4 +1,6 @@
-﻿# MU Bazar
+This is just a prototype actual website link is:https://mu-bazar-ruddy.vercel.app/
+And also app development is in progress
+# MU Bazar
 
 MU Bazar is a full-stack campus marketplace built for Marwadi University students. It gives students one place to list, find, and discuss appropriate products and hostel essentials.
 
